@@ -9,7 +9,7 @@ except ModuleNotFoundError:
     print("Erreur: PyNaCl est manquant. Installe les dépendances avec: python -m pip install -r requirements.txt")
     raise SystemExit(1)
 
-DISCORD_TOKEN = "MTQ0MTExMTk0NTM2ODMwNTcyNA.G0jkjA.fx9tK0k1kFZJjiNyy5x1exPd-bpI2Yv2Thirq4"
+DISCORD_TOKEN = "YOUR TOKEN"
 STREAM_URL = "http://radionova.ice.infomaniak.ch/radionova-256.aac"
 GUILD_ID = "1497675058427072623"
 
